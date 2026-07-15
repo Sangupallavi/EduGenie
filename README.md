@@ -1,4 +1,4 @@
-**Google cloud GenAI**
+**Edugenie**
 
 **Repository Structure**
 
